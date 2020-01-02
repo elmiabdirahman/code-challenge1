@@ -7,8 +7,6 @@ if the bill is more than $200. In the end, John would like to have 2 arrays:
 1) Containing all three tips (one for each bill)
 
 2) Containing all three final paid amounts (bill + tip).
-(NOTE: To calculate 20% of a value, simply multiply it with 20/100 = 0.2)
-GOOD LUCK 😀
 */
 
 function tipCalculator(bill) {
